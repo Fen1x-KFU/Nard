@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace Nard
 {
-    public partial class Form1 : Form
+    public partial class Form_Nard : Form
     {
-        public Form1()
+        public Form_Nard()
         {
             InitializeComponent();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
